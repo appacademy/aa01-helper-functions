@@ -9,8 +9,8 @@ describe("greatestFactorArray", function () {
   it("greatestFactorArray([30, 3, 24, 21, 10]) returns [15, 3, 12, 21, 5]", function () {
     expect(greatestFactorArray([30, 3, 24, 21, 10])).to.eql([15, 3, 12, 21, 5]);
   });
-  it("greatestFactorArray([1, 2, 3, 4, 5]) returns [1, 2, 3, 2, 5]", function () {
-    expect(greatestFactorArray([1, 2, 3, 4, 5])).to.eql([1, 2, 3, 2, 5]);
+  it("greatestFactorArray([1, 2, 3, 4, 5]) returns [1, 1, 3, 2, 5]", function () {
+    expect(greatestFactorArray([1, 2, 3, 4, 5])).to.eql([1, 1, 3, 2, 5]);
   });
   it("greatestFactorArray([10, 20, 30, 40, 50]) returns [5, 10, 15, 20, 25]", function () {
     expect(greatestFactorArray([10, 20, 30, 40, 50])).to.eql([5, 10, 15, 20, 25]);
