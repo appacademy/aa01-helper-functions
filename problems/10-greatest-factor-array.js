@@ -15,7 +15,7 @@ factor. Use the greatestFactor function as a helper function.
 
 // console.log(greatestFactorArray([16, 7, 9, 14])); // [8, 7, 9, 7]
 // console.log(greatestFactorArray([30, 3, 24, 21, 10])); // [15, 3, 12, 21, 5];
-// console.log(greatestFactorArray([1, 2, 3, 4, 5])); // [1, 2, 3, 2, 5 ]
+// console.log(greatestFactorArray([1, 2, 3, 4, 5])); // [1, 1, 3, 2, 5 ]
 // console.log(greatestFactorArray([10, 20, 30, 40, 50])); // [5, 10, 15, 20, 25 ]
 // console.log(greatestFactorArray([23, 43, 54, 65, 12])); // [23, 43, 27, 65, 6 ]
 
